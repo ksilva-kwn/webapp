@@ -1,0 +1,11 @@
+<?php
+// Este é um comentário em PHP
+
+// Função para exibir "Hello World" na tela
+function helloWorld() {
+    echo "Hello World!";
+}
+
+// Chamando a função para exibir a mensagem
+helloWorld();
+?>
